@@ -1,0 +1,6 @@
+#config file
+jar_directory: jars
+
+#Fasta (and indexed) file location - please provide location to your own fasta file.
+fasta_file: fasta_file/chromosome.fasta
+data_directory: vkgl_data
